@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="[https://avatars.githubusercontent.com/u/163644806?s=400&u=2d4958042fd697ab42895bb4424d38b40243540a&v=4](https://avatars.githubusercontent.com/u/195933730?v=4)" alt="Profile Picture" width="150" style="border-radius: 50%;">
+  <img src="https://avatars.githubusercontent.com/u/195933730?v=4" alt="Profile Picture" width="150" style="border-radius: 50%;">
 </p>
 
 # 💫About Me :
